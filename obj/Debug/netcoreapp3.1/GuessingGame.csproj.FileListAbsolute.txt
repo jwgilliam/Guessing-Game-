@@ -1,0 +1,11 @@
+C:\Users\ggsmo\workspace\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.exe
+C:\Users\ggsmo\workspace\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.deps.json
+C:\Users\ggsmo\workspace\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.runtimeconfig.json
+C:\Users\ggsmo\workspace\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.runtimeconfig.dev.json
+C:\Users\ggsmo\workspace\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.dll
+C:\Users\ggsmo\workspace\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.pdb
+C:\Users\ggsmo\workspace\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.csprojAssemblyReference.cache
+C:\Users\ggsmo\workspace\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.AssemblyInfoInputs.cache
+C:\Users\ggsmo\workspace\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.AssemblyInfo.cs
+C:\Users\ggsmo\workspace\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.dll
+C:\Users\ggsmo\workspace\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.pdb
